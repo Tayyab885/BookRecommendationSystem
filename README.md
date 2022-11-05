@@ -4,7 +4,7 @@
 #### Home Page:
 <img src="Images/home.png" width="1000">
 
-#### Recommended Page:
+#### Recommendation Page:
 <img src="Images/4u.png" width="1000">
 
 ----
